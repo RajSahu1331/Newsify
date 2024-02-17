@@ -1,0 +1,25 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background: rgb(2, 0, 36);
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(0, 0, 89, 1) 78%, rgba(0, 15, 97, 1) 100%);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* 
+.Falana {
+    position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+} */
