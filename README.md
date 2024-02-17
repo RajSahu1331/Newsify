@@ -1,6 +1,6 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
-### [Live Site](https://newz-ai.netlify.app/)
+### [Live Site][(https://newz-ai.netlify.app/)](https://newsify-ai.netlify.app/)
 
 ![Voice Controlled React News Application](Newsify.png)
 
